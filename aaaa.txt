@@ -1,8 +1,10 @@
-1
+one
 2
 3
 4
-오
+<<<<<<< HEAD
+오(five)
+>>>>>>> 0b66fc4ff47a85eee2392a35dbeb21a3bda8aabf
 6
 7
 8
